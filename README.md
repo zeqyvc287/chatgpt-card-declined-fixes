@@ -1,0 +1,1 @@
+# chatgpt-card-declined-fixes
